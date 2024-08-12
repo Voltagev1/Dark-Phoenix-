@@ -8,7 +8,7 @@
 
   <p align="center">  
   <a href="https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/3be11168e1195919abeed.jpg">
     <h1 align="center">DARK PHOENIX</h1>
   </a>
 </p>
