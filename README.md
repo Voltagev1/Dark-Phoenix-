@@ -41,49 +41,49 @@ UPLOADING - HOW TO UPLOAD Dark Phoenix FILE ON YOUR PANEL. Open the server,click
 
 
 atp update
-```
+
 
 apt upgrade
-```
+
 
 pkg update && pkg upgrade
-```
+
 
 pkg install bash
-```
+
 
 pkg install git
-````
+
 
 pkg install nodejs
-````
+
 
 pkg install ffmpeg
-````
+
 
 pkg install wget
-```
+
 pkg install imagemagick
-```
+`
 
 pkg install yarn
-```
+
 
 termux-setup-storage
-```
+
 
 git clone  (copy and paste your forked repo not mine to save your changes)
-````
+
 
 
 cd Dark Phoenix 
-```
+
 
 yarn install
-```
+
    
 npm start
-````
+
 
 
 If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
