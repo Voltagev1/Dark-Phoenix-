@@ -124,10 +124,10 @@ Contributions to Dark Phoenix are welcome! If you have ideas for new features, i
 
 ## License
 
-The WhatsApp Bot PREXZY BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot Dark Phoenix is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Devil Cat v2 Md to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot Dark Phoenix to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
--PRECIOUS AYOMIDE
+Voltage⚡Lord
