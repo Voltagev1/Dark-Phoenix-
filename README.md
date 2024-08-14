@@ -9,7 +9,7 @@
   <p align="center">  
   <a href="https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47">
     <img alt="wasi" height="300" src="https://telegra.ph/file/3be11168e1195919abeed.jpg">
-    <h1 align="center">DARK PHOENIX</h1>
+    <h1 align="center">DARK-PHOENIX-</h1>
   </a>
 </p>
 <p align="center">
@@ -23,7 +23,7 @@ DARK PHOENIX a bug bot designed to enhance the functionality and preferences of 
 If you clone my repo or use as base bot, dont forget to give credits. Voltage⚡Lord
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/VoltageLord/Dark Phoenix/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/VoltageLord/Dark-Phoenix-/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
