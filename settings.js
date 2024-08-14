@@ -10,7 +10,7 @@ global.location = "Nigeria, Edo, Benin"
 
 global.ownernumber = '2347045674902'  //creator number
 global.ownername = 'Voltage⚡Lord' //owner name
-global.botname = 'Dark Phoenix' //name of the bot
+global.botname = 'Dark-Phoenix-' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
